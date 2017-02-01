@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Systematic Firebase Test</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="facebook_app_id">1346120058763647</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7247754216255668/4255369636</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
